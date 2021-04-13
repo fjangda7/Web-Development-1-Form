@@ -1,0 +1,79 @@
+
+  .container {
+    margin: auto;
+    overflow: auto;
+  }
+
+  body{
+    background: #EFF0F2;
+  }
+
+  header {
+    background: #EFF0F2;
+    padding: 1rem;
+    padding-top: 9rem;
+    text-align: center;
+  }
+
+  header h1{
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: lighter;
+      font-size: 20pt; 
+      color:#31362F;
+      padding: 0;
+      margin:0;
+  }
+
+  header p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt; 
+    color:#8B9094;
+    padding: 0;
+    margin: 10pt;
+
+  }
+
+  #my-form {
+    padding: 2rem;
+  }
+  
+  #my-form label {
+    display: block;
+  }
+  
+  #my-form input[type='text'] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  #my-form textarea{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+
+  }
+
+  .btn {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15%;
+    padding: 10px 15px;
+    border: 0;
+    background: #8ED941;
+    color: #fff;
+    border-radius: 60px;
+    margin: 0 auto;
+  }
+  
+  .btn:hover {
+    background: #444;
+  }
+  
